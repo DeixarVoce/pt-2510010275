@@ -38,4 +38,22 @@ Folder `p05` di repository `pt-NPM` berisi `sinilai_v04.cpp`. Lihat Modul Pertem
 
 ## Deklarasi AI
 
-Tuliskan AI yang digunakan, prompt, dan umpan balik AI
+### Alat AI yang digunakan
+
+ChatGPT.
+
+### Untuk apa AI digunakan
+
+AI digunakan sebagai alat bantu untuk:
+- menjelaskan konsep perulangan `for`, `while`, dan `do-while`;
+- membantu memahami penggunaan akumulator untuk menghitung total nilai dan jumlah mahasiswa yang lulus;
+- memberikan panduan pengerjaan dan penjelasan bagian kode SiNilai v0.4;
+- memeriksa kode yang sudah saya kerjakan dan membantu memahami pesan error saat proses build.
+
+### Prompt yang digunakan
+
+Prompt yang digunakan berupa pertanyaan tentang konsep perulangan dan pemeriksaan kode yang sedang saya kerjakan, misalnya meminta penjelasan fungsi `do-while`, penggunaan akumulator, serta cara memeriksa hasil program SiNilai v0.4 sesuai dengan modul P05.
+
+### Cara memeriksa hasil AI
+
+Saya mengetik dan menjalankan kode di VS Code menggunakan C++ dan Git Bash. Kode dibangun dengan perintah `g++ -std=c++20 -Wall -Wextra -Wpedantic -g p05/sinilai_v04.cpp -o p05/sinilai_v04`. Program kemudian dijalankan menggunakan `./p05/sinilai_v04 < p05/contoh_masukan.txt`. Hasilnya dibandingkan dengan tabel pengujian pada modul P05. Hasil pengujian menunjukkan tiga nilai akhir, yaitu 83.975, 67.75, dan 49.5, dengan rekap 3 mahasiswa, 2 lulus, 1 belum lulus, dan rata-rata kelas 67.075.
