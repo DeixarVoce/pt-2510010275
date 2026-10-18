@@ -56,4 +56,4 @@ Prompt yang digunakan berupa pertanyaan tentang konsep perulangan dan pemeriksaa
 
 ### Cara memeriksa hasil AI
 
-Saya mengetik dan menjalankan kode di VS Code menggunakan C++ dan Git Bash. Kode dibangun dengan perintah `g++ -std=c++20 -Wall -Wextra -Wpedantic -g p05/sinilai_v04.cpp -o p05/sinilai_v04`. Program kemudian dijalankan menggunakan `./p05/sinilai_v04 < p05/contoh_masukan.txt`. Hasilnya dibandingkan dengan tabel pengujian pada modul P05. Hasil pengujian menunjukkan tiga nilai akhir, yaitu 83.975, 67.75, dan 49.5, dengan rekap 3 mahasiswa, 2 lulus, 1 belum lulus, dan rata-rata kelas 67.075.
+Saya mengetik dan menjalankan kode di VS Code menggunakan C++ dan Git Bash. Kode dibangun dengan perintah `g++ -std=c++20 -Wall -Wextra -Wpedantic -g p05/sinilai_v04.cpp -o p05/sinilai_v04`. Program kemudian dijalankan menggunakan `./p05/sinilai_v04 < p05/contoh_masukan.txt`. Hasilnya dibandingkan dengan tabel pengujian pada modul P05. Hasil pengujian menunjukkan tiga nilai akhir, yaitu 83.975, 67.75, dan 49.5, dengan rekap 3 mahasiswa, 2 lulus, 1 belum lulus, dan rata-rata kelas 67.075.`
