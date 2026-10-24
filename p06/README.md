@@ -11,6 +11,7 @@ pada perulangan bersarang ada dua panah yang kembali, dan pada break/continue ad
 | `sinilai_v05.cpp` | Program utama SiNilai v0.5 untuk tugas P06 |
 | `contoh_masukan.txt` | Data masukan untuk menguji program sesuai modul |
 | `README.md` | Informasi tugas dan deklarasi penggunaan AI |
+| `latihan_mandiri/` | Program dan catatan Latihan Mandiri P06 |
 
 ## Kasus uji SiNilai v0.5 (`./sinilai_v05 < contoh_masukan.txt`)
 
